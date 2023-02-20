@@ -1,0 +1,35 @@
+Phase1:
+1.create new project
+2.create local(git repo) repo.
+3.add files to staging
+4.commit changes to local repo(git)
+5.push changes to master branch
+
+
+
+Phase2:
+Admin need to add collaborators.(invite collaborator)
+Admin informed he created new project on git hub
+Proceed and clone it then continue the work
+
+
+
+Phase 3:
+1. Collaborator can Clone remote repo to local repo
+2. Import project from git to workspace
+3. add/modify/code/test cases
+4. Add files to staging
+5.Commit changes to local repo and create branch locally
+6.Push changes to remote repo(git hub)  from new branch
+7.Request PR(Pull request) for review code
+
+
+
+
+
+Phase4:
+Case1:  if changes are required, then provide comments to team member
+Case2: Everything fine, then provide approval to merge code in master branch in github
+
+Phase5:
+Merge code with master branch
